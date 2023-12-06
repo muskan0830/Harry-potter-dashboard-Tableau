@@ -1,4 +1,4 @@
-#The Wizarding World of Harry Potter Through Data || Tableau
+# The Wizarding World of Harry Potter Through Data || Tableau
 
 ## Project Objective:
 Relive the magic of the Harry Potter books through a data-driven journey! This Tableau project aims to unravel intriguing insights into the world of Harry, Hermione, and Ron by analyzing key aspects such as book sales, awards, page counts, release years, and more. The primary goal is to transform raw data into a visually engaging dashboard that encapsulates the enchantment and nostalgia of our favorite wizarding tales.
